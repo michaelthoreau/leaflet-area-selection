@@ -61,7 +61,8 @@
     "rimraf": "^3.0.2"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "dependencies": {}
 }
